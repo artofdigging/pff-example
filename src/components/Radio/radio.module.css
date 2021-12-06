@@ -1,0 +1,11 @@
+.radio {
+  background-color: #1e272e;
+  max-width: 800px;
+  padding: 32px;
+  margin: 0 auto;
+}
+
+.radioContainer {
+  display: flex;
+  overflow: scroll;
+}

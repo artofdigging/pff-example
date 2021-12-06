@@ -1,0 +1,25 @@
+.episodeTile {
+  background-color: #c7d2da;
+  margin: 16px;
+  padding: 16px;
+  font-size: 14px;
+}
+
+.episodeTitle {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.episodeDescription {
+  margin-bottom: 8px;
+}
+
+.episodeDate {
+  margin-bottom: 8px;
+}
+
+.episodeImage {
+  margin-bottom: 8px;
+  width: 200px;
+}
